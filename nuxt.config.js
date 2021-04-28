@@ -49,13 +49,14 @@ export default {
       [
         '@nuxtjs/firebase',
         {
+          //ENTER YOUR FIREBASE
           config: {
-              apiKey: "AIzaSyBEhuaR2nzQgg9MQDMkbF8UFSoBH9tzzcw",
-              authDomain: "trello-a7663.firebaseapp.com",
-              projectId: "trello-a7663",
-              storageBucket: "trello-a7663.appspot.com",
-              messagingSenderId: "913700230166",
-              appId: "1:913700230166:web:30c08d08814fd38c24d137"
+              apiKey: "",
+              authDomain: "",
+              projectId: "",
+              storageBucket: "",
+              messagingSenderId: "",
+              appId: ""
           },
           services: {
             auth: {
